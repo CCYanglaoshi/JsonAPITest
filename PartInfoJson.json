@@ -1,0 +1,22 @@
+{
+  "PartInfo":[
+    {
+      "PartID": "0",
+      "PartName": "Chassis-0",
+      "PartSN": "Chassis-2022-0",
+      "Description":"This is Chassis 0"
+    },
+    {
+      "PartID": "1",
+      "PartName": "Chassis-1",
+      "PartSN": "Chassis-2022-1",
+      "Description":"This is Chassis 1"
+    },
+    {
+      "PartID": "2",
+      "PartName": "Chassis-2",
+      "PartSN": "Chassis-2022-2",
+      "Description":"This is Chassis"
+    }
+  ]
+}
