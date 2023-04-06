@@ -1,1 +1,28 @@
-
+{
+  "ProjectPartNameLV1": [
+    {
+      "ID": "0",
+      "Name": "LeftFront Door",
+      "Version": "v1.0",
+      "Description": "LeftFront Door"
+    },
+    {
+      "ID": "1",
+      "Name": "RightFront Door",
+      "Version": "v1.0",
+      "Description": "RightFront Door."
+    },
+    {
+      "ID": "2",
+      "Name": "LeftBack Door",
+      "Version": "v1.0",
+      "Description": "LeftBack Door."
+    },
+    {
+      "ID": "3",
+      "Name": "RightBack Door",
+      "Version": "v1.0",
+      "Description": "RightBack Door."
+    }
+  ]
+}
