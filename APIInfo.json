@@ -2,21 +2,27 @@
   "APIInfo": [
     {
       "APIID": "0",
-      "APIName": "Chassis-0",
-      "Version": "Chassis-2022-0",
-      "Description": "This is Chassis 0"
+      "APIName": "authenticationAPI",
+      "Version": "v1.0",
+      "Description": "user name and password authenticate. Input: username, password. Output: bool, Role(user,admin)"
     },
     {
-      "APIID": "0",
-      "APIName": "Chassis-0",
-      "Version": "Chassis-2022-0",
-      "Description": "This is Chassis 0"
+      "APIID": "1",
+      "APIName": "ProjectPartNameLV1API",
+      "Version": "v1.0",
+      "Description": "For PartLV1 Combobox in Main Page. Input: Null, Output: arrary of PartLV1, sort by alphabet."
     },
     {
-      "APIID": "0",
-      "APIName": "Chassis-0",
-      "Version": "Chassis-2022-0",
-      "Description": "This is Chassis 0"
+      "APIID": "2",
+      "APIName": "ProjectPartNameLV2API",
+      "Version": "v1.0",
+      "Description": "For PartLV2 Combobox in Main Page. Input: Null, Output: arrary of PartLV2, sort by alphabet."
+    },
+    {
+      "APIID": "3",
+      "APIName": "ProjectPartNameLV3API",
+      "Version": "v1.0",
+      "Description": "For PartLV3 Combobox in Main Page. Input: Null, Output: arrary of PartLV3, sort by alphabet."
     }
   ]
 }
