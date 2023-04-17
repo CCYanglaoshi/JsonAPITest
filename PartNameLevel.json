@@ -1,0 +1,443 @@
+[
+	{
+		"Name": "1",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_Chassis",
+		"LV2_PartName": "A5_Chassis_LV2_a",
+		"LV3_PartName": "A5_Chassis_LV2_a_lv3_a"
+	},
+	{
+		"Name": "2",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_Chassis",
+		"LV2_PartName": "A5_Chassis_LV2_a",
+		"LV3_PartName": "A5_Chassis_LV2_a_lv3_b"
+	},
+	{
+		"Name": "3",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_Chassis",
+		"LV2_PartName": "A5_Chassis_LV2_b",
+		"LV3_PartName": "A5_Chassis_LV2_b_lv3_a"
+	},
+	{
+		"Name": "4",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_Chassis_Breaklight",
+		"LV2_PartName": "A5_Chassis_Breaklight_LV2_a",
+		"LV3_PartName": "A5_Chassis_Breaklight_LV2_a_lv3_a"
+	},
+	{
+		"Name": "5",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_Chassis_Breaklight",
+		"LV2_PartName": "A5_Chassis_Breaklight_LV2_a",
+		"LV3_PartName": "A5_Chassis_Breaklight_LV2_a_lv3_b"
+	},
+	{
+		"Name": "6",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_Chassis_Breaklight",
+		"LV2_PartName": "A5_Chassis_Breaklight_LV2_b",
+		"LV3_PartName": "A5_Chassis_Breaklight_LV2_b_lv3_a"
+	},
+	{
+		"Name": "7",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_chassis_centerconsole",
+		"LV2_PartName": "A5_chassis_centerconsole_LV2_a",
+		"LV3_PartName": "A5_chassis_centerconsole_LV2_a_lv3_a"
+	},
+	{
+		"Name": "8",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_chassis_centerconsole",
+		"LV2_PartName": "A5_chassis_centerconsole_LV2_a",
+		"LV3_PartName": "A5_chassis_centerconsole_LV2_a_lv3_b"
+	},
+	{
+		"Name": "9",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_chassis_centerconsole",
+		"LV2_PartName": "A5_chassis_centerconsole_LV2_b",
+		"LV3_PartName": "A5_chassis_centerconsole_LV2_b_lv3_a"
+	},
+	{
+		"Name": "10",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_chassis_Dashboard",
+		"LV2_PartName": "A5_chassis_Dashboard_LV2_a",
+		"LV3_PartName": "A5_chassis_Dashboard_LV2_a_lv3_a"
+	},
+	{
+		"Name": "11",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_chassis_Dashboard",
+		"LV2_PartName": "A5_chassis_Dashboard_LV2_a",
+		"LV3_PartName": "A5_chassis_Dashboard_LV2_a_lv3_b"
+	},
+	{
+		"Name": "12",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_chassis_Dashboard",
+		"LV2_PartName": "A5_chassis_Dashboard_LV2_b",
+		"LV3_PartName": "A5_chassis_Dashboard_LV2_b_lv3_a"
+	},
+	{
+		"Name": "13",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_chassis_FrontGrill",
+		"LV2_PartName": "A5_chassis_FrontGrill_LV2_a",
+		"LV3_PartName": "A5_chassis_FrontGrill_LV2_a_lv3_a"
+	},
+	{
+		"Name": "14",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_chassis_FrontGrill",
+		"LV2_PartName": "A5_chassis_FrontGrill_LV2_a",
+		"LV3_PartName": "A5_chassis_FrontGrill_LV2_a_lv3_b"
+	},
+	{
+		"Name": "15",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_chassis_FrontGrill",
+		"LV2_PartName": "A5_chassis_FrontGrill_LV2_b",
+		"LV3_PartName": "A5_chassis_FrontGrill_LV2_b_lv3_a"
+	},
+	{
+		"Name": "16",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_chassis_Headlight",
+		"LV2_PartName": "A5_chassis_Headlight_LV2_a",
+		"LV3_PartName": "A5_chassis_Headlight_LV2_a_lv3_a"
+	},
+	{
+		"Name": "17",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_chassis_Headlight",
+		"LV2_PartName": "A5_chassis_Headlight_LV2_a",
+		"LV3_PartName": "A5_chassis_Headlight_LV2_a_lv3_b"
+	},
+	{
+		"Name": "18",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_chassis_Headlight",
+		"LV2_PartName": "A5_chassis_Headlight_LV2_b",
+		"LV3_PartName": "A5_chassis_Headlight_LV2_b_lv3_a"
+	},
+	{
+		"Name": "19",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_chassis_Hood",
+		"LV2_PartName": "A5_chassis_Hood_LV2_a",
+		"LV3_PartName": "A5_chassis_Hood_LV2_a_lv3_a"
+	},
+	{
+		"Name": "20",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_chassis_Hood",
+		"LV2_PartName": "A5_chassis_Hood_LV2_a",
+		"LV3_PartName": "A5_chassis_Hood_LV2_a_lv3_b"
+	},
+	{
+		"Name": "21",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_chassis_Hood",
+		"LV2_PartName": "A5_chassis_Hood_LV2_b",
+		"LV3_PartName": "A5_chassis_Hood_LV2_b_lv3_a"
+	},
+	{
+		"Name": "22",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_chassis_MainBody",
+		"LV2_PartName": "A5_chassis_MainBody_LV2_a",
+		"LV3_PartName": "A5_chassis_MainBody_LV2_a_lv3_a"
+	},
+	{
+		"Name": "23",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_chassis_MainBody",
+		"LV2_PartName": "A5_chassis_MainBody_LV2_a",
+		"LV3_PartName": "A5_chassis_MainBody_LV2_a_lv3_b"
+	},
+	{
+		"Name": "24",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_chassis_MainBody",
+		"LV2_PartName": "A5_chassis_MainBody_LV2_b",
+		"LV3_PartName": "A5_chassis_MainBody_LV2_b_lv3_a"
+	},
+	{
+		"Name": "25",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_chassis_WindshieldOuter",
+		"LV2_PartName": "A5_chassis_WindshieldOuter_LV2_a",
+		"LV3_PartName": "A5_chassis_WindshieldOuter_LV2_a_lv3_a"
+	},
+	{
+		"Name": "26",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_chassis_WindshieldOuter",
+		"LV2_PartName": "A5_chassis_WindshieldOuter_LV2_a",
+		"LV3_PartName": "A5_chassis_WindshieldOuter_LV2_a_lv3_b"
+	},
+	{
+		"Name": "27",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_chassis_WindshieldOuter",
+		"LV2_PartName": "A5_chassis_WindshieldOuter_LV2_b",
+		"LV3_PartName": "A5_chassis_WindshieldOuter_LV2_b_lv3_a"
+	},
+	{
+		"Name": "28",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_Claipers",
+		"LV2_PartName": "A5_Claipers_LV2_a",
+		"LV3_PartName": "A5_Claipers_LV2_a_lv3_a"
+	},
+	{
+		"Name": "29",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_Claipers",
+		"LV2_PartName": "A5_Claipers_LV2_a",
+		"LV3_PartName": "A5_Claipers_LV2_a_lv3_b"
+	},
+	{
+		"Name": "30",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_Claipers",
+		"LV2_PartName": "A5_Claipers_LV2_b",
+		"LV3_PartName": "A5_Claipers_LV2_b_lv3_a"
+	},
+	{
+		"Name": "31",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_CoverTop",
+		"LV2_PartName": "A5_CoverTop_LV2_a",
+		"LV3_PartName": "A5_CoverTop_LV2_a_lv3_a"
+	},
+	{
+		"Name": "32",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_CoverTop",
+		"LV2_PartName": "A5_CoverTop_LV2_a",
+		"LV3_PartName": "A5_CoverTop_LV2_a_lv3_b"
+	},
+	{
+		"Name": "33",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_CoverTop",
+		"LV2_PartName": "A5_CoverTop_LV2_b",
+		"LV3_PartName": "A5_CoverTop_LV2_b_lv3_a"
+	},
+	{
+		"Name": "34",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_L_FrontDoor",
+		"LV2_PartName": "A5_L_FrontDoor_LV2_a",
+		"LV3_PartName": "A5_L_FrontDoor_LV2_a_lv3_a"
+	},
+	{
+		"Name": "35",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_L_FrontDoor",
+		"LV2_PartName": "A5_L_FrontDoor_LV2_a",
+		"LV3_PartName": "A5_L_FrontDoor_LV2_a_lv3_b"
+	},
+	{
+		"Name": "36",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_L_FrontDoor",
+		"LV2_PartName": "A5_L_FrontDoor_LV2_b",
+		"LV3_PartName": "A5_L_FrontDoor_LV2_b_lv3_a"
+	},
+	{
+		"Name": "37",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_L_window_Back",
+		"LV2_PartName": "A5_L_window_Back_LV2_a",
+		"LV3_PartName": "A5_L_window_Back_LV2_a_lv3_a"
+	},
+	{
+		"Name": "38",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_L_window_Back",
+		"LV2_PartName": "A5_L_window_Back_LV2_a",
+		"LV3_PartName": "A5_L_window_Back_LV2_a_lv3_b"
+	},
+	{
+		"Name": "39",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_L_window_Back",
+		"LV2_PartName": "A5_L_window_Back_LV2_b",
+		"LV3_PartName": "A5_L_window_Back_LV2_b_lv3_a"
+	},
+	{
+		"Name": "40",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_L_Window_front",
+		"LV2_PartName": "A5_L_Window_front_LV2_a",
+		"LV3_PartName": "A5_L_Window_front_LV2_a_lv3_a"
+	},
+	{
+		"Name": "41",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_L_Window_front",
+		"LV2_PartName": "A5_L_Window_front_LV2_a",
+		"LV3_PartName": "A5_L_Window_front_LV2_a_lv3_b"
+	},
+	{
+		"Name": "42",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_L_Window_front",
+		"LV2_PartName": "A5_L_Window_front_LV2_b",
+		"LV3_PartName": "A5_L_Window_front_LV2_b_lv3_a"
+	},
+	{
+		"Name": "43",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_R_FrontDoor",
+		"LV2_PartName": "A5_R_FrontDoor_LV2_a",
+		"LV3_PartName": "A5_R_FrontDoor_LV2_a_lv3_a"
+	},
+	{
+		"Name": "44",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_R_FrontDoor",
+		"LV2_PartName": "A5_R_FrontDoor_LV2_a",
+		"LV3_PartName": "A5_R_FrontDoor_LV2_a_lv3_b"
+	},
+	{
+		"Name": "45",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_R_FrontDoor",
+		"LV2_PartName": "A5_R_FrontDoor_LV2_b",
+		"LV3_PartName": "A5_R_FrontDoor_LV2_b_lv3_a"
+	},
+	{
+		"Name": "46",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_R_window_Back",
+		"LV2_PartName": "A5_R_window_Back_LV2_a",
+		"LV3_PartName": "A5_R_window_Back_LV2_a_lv3_a"
+	},
+	{
+		"Name": "47",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_R_window_Back",
+		"LV2_PartName": "A5_R_window_Back_LV2_a",
+		"LV3_PartName": "A5_R_window_Back_LV2_a_lv3_b"
+	},
+	{
+		"Name": "48",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_R_window_Back",
+		"LV2_PartName": "A5_R_window_Back_LV2_b",
+		"LV3_PartName": "A5_R_window_Back_LV2_b_lv3_a"
+	},
+	{
+		"Name": "49",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_R_Window_front",
+		"LV2_PartName": "A5_R_Window_front_LV2_a",
+		"LV3_PartName": "A5_R_Window_front_LV2_a_lv3_a"
+	},
+	{
+		"Name": "50",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_R_Window_front",
+		"LV2_PartName": "A5_R_Window_front_LV2_a",
+		"LV3_PartName": "A5_R_Window_front_LV2_a_lv3_b"
+	},
+	{
+		"Name": "51",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_R_Window_front",
+		"LV2_PartName": "A5_R_Window_front_LV2_b",
+		"LV3_PartName": "A5_R_Window_front_LV2_b_lv3_a"
+	},
+	{
+		"Name": "52",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_Shifter",
+		"LV2_PartName": "A5_Shifter_LV2_a",
+		"LV3_PartName": "A5_Shifter_LV2_a_lv3_a"
+	},
+	{
+		"Name": "53",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_Shifter",
+		"LV2_PartName": "A5_Shifter_LV2_a",
+		"LV3_PartName": "A5_Shifter_LV2_a_lv3_b"
+	},
+	{
+		"Name": "54",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_Shifter",
+		"LV2_PartName": "A5_Shifter_LV2_b",
+		"LV3_PartName": "A5_Shifter_LV2_b_lv3_a"
+	},
+	{
+		"Name": "55",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_SteeringWheel",
+		"LV2_PartName": "A5_SteeringWheel_LV2_a",
+		"LV3_PartName": "A5_SteeringWheel_LV2_a_lv3_a"
+	},
+	{
+		"Name": "56",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_SteeringWheel",
+		"LV2_PartName": "A5_SteeringWheel_LV2_a",
+		"LV3_PartName": "A5_SteeringWheel_LV2_a_lv3_b"
+	},
+	{
+		"Name": "57",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_SteeringWheel",
+		"LV2_PartName": "A5_SteeringWheel_LV2_b",
+		"LV3_PartName": "A5_SteeringWheel_LV2_b_lv3_a"
+	},
+	{
+		"Name": "58",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_Trunk",
+		"LV2_PartName": "A5_Trunk_LV2_a",
+		"LV3_PartName": "A5_Trunk_LV2_a_lv3_a"
+	},
+	{
+		"Name": "59",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_Trunk",
+		"LV2_PartName": "A5_Trunk_LV2_a",
+		"LV3_PartName": "A5_Trunk_LV2_a_lv3_b"
+	},
+	{
+		"Name": "60",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_Trunk",
+		"LV2_PartName": "A5_Trunk_LV2_b",
+		"LV3_PartName": "A5_Trunk_LV2_b_lv3_a"
+	},
+	{
+		"Name": "61",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_TrunkBars",
+		"LV2_PartName": "A5_TrunkBars_LV2_a",
+		"LV3_PartName": "A5_TrunkBars_LV2_a_lv3_a"
+	},
+	{
+		"Name": "62",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_TrunkBars",
+		"LV2_PartName": "A5_TrunkBars_LV2_a",
+		"LV3_PartName": "A5_TrunkBars_LV2_a_lv3_b"
+	},
+	{
+		"Name": "63",
+		"Project": "Audi_A5",
+		"LV1_PartName": "A5_TrunkBars",
+		"LV2_PartName": "A5_TrunkBars_LV2_b",
+		"LV3_PartName": "A5_TrunkBars_LV2_b_lv3_a"
+	}
+]
